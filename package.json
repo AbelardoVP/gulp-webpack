@@ -27,7 +27,7 @@
     "gulp-clean-css": "^4.2.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
